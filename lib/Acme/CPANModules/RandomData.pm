@@ -24,7 +24,7 @@ Keywords: random data.
 _
 
 our $LIST = {
-    summary => 'Generating random person (name, title, age, etc)',
+    summary => 'Generating random data',
     description => $text,
 };
 
